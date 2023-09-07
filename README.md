@@ -1,1 +1,2 @@
-# Firstone
+# Firstonecd
+git clone Amirsapp/Firstone
